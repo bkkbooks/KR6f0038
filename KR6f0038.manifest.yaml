@@ -39,7 +39,7 @@ assets:
   - {seq: 3, filename: KR6f0038_003.yaml, hash: 'sha256:c00283801325ca886ec110b06ebc4a956e5e359142ebf771e8a0bf02c2abd36a'}
   - {seq: 4, filename: KR6f0038_004.yaml, hash: 'sha256:085b9facbbe2b1a589ae5cc40b6aae539798d588a32144fcce153282e8e957cf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0038_000.markers.yaml, hash: 'sha256:20cac0671953e66c06ebb0f19766c13af1df19139089ccec249cd66d9706fac7'}
+  - {seq: 0, role: markers, filename: assets/KR6f0038_000.markers.yaml, hash: 'sha256:19e8fdc7fbb1eda677c5c392fbeba69d6fdb595584a23b9cd7579d6fc7f51aab'}
   - {seq: 1, role: markers, filename: assets/KR6f0038_001.markers.yaml, hash: 'sha256:7750f551ccf530d50b8b52bafd2fc06c995b46bed83f436bf40cfdfb402cf586'}
   - {seq: 2, role: markers, filename: assets/KR6f0038_002.markers.yaml, hash: 'sha256:385971cae1ac60c7beafd9e20ff8cb1ba071ad0062f239a29c64bb2677d5af50'}
   - {seq: 3, role: markers, filename: assets/KR6f0038_003.markers.yaml, hash: 'sha256:30d8f7fd47768466fe59344303ec2b5ffb6b7b203b578ed7ea8d7c844f07141f'}
@@ -85,7 +85,7 @@ table_of_contents:
   label: 佛說大方廣善巧方便經卷第四
   type: juan
   level: 1
-hash: sha256:5df8023fc0a3e82ca50478b0add73f0e6fb0451ebc2df11a05accdb5bdd9fcbb
+hash: sha256:767b446c9b6e1ed763f9a044429e940beff35e474b970aaa69d5868a2e1365a1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
